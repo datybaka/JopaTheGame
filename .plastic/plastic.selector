@@ -1,0 +1,4 @@
+repository "JopaTheGame@Nyambanana@cloud"
+  path "/"
+    br "/main"
+    co "/main"
