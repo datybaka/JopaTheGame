@@ -15,7 +15,7 @@ public class LogConsole : MonoBehaviour
         StatusUp.text += "GGHP: 30" + "\n";
         StatusUp.text += "P2HP: 30";
 
-        Loging.text = "1. Начало битвы...\n";
+        Loging.text = "1. Начало боя...\n";
     }
 
     public void RoundEnd(int[] status, string[] gamehistory)
